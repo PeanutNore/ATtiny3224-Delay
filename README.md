@@ -3,7 +3,7 @@ A Digital Delay pedal for guitar based on the ATtiny3224 microcontroller and 23L
 
 This program, PCB design, and associated schematics are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-
+![ATtinyDelay](https://github.com/user-attachments/assets/106b8345-1de5-4a50-a64b-f96a5cb06bf4)
 
 To use this software you will need:
 
