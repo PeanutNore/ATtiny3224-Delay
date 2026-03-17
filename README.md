@@ -7,8 +7,8 @@ This program, PCB design, and associated schematics are distributed in the hope 
 
 To use this software you will need:
 
-- A complete and working ATtiny Delay circuit
-    - Refer to the included schematic
+- A complete and working ATtiny Delay circuit (or the version of the circuit on my business card)
+    - Refer to the included schematic (or just populate the components on the business card)
     - Gerber files for ordering PCBs are included in ATTiny_Delay_Pedal.zip. I have had success using JLCPCB. This is not an endorsement, use whatever PCB vendor you prefer.
 - Arduino IDE version 1.8.19 or greater
 - megaTinyCore (https://github.com/SpenceKonde/megaTinyCore) for ATtiny3224 support
