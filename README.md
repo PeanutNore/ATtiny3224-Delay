@@ -1,5 +1,6 @@
 # ATtiny3224-Delay
 A Digital Delay Pedal for guitar based on the ATtiny3224 microcontroller and 23LC512 SRAM
+
 I have included two different circuit designs that are each compatible with the code in this repository.
 I recommend the "Business Card Delay" circuit for those comfortable designing their own PCB as this is 
 a newer, optimized design that provides better audio quality with fewer components.
